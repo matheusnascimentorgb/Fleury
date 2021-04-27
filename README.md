@@ -3,7 +3,7 @@
 
 - 1- Abra o terminal e faça um git clone do projeto:
 
-git clone https://github.com/brunoinnacio/fleury.git
+git clone https://github.com/matheusnascimentorgb/Fleury.git
 
 - 2- Abra a pasta tests do projeto pelo terminal e execute o comando bundle install
 
